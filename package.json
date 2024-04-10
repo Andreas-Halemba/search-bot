@@ -13,7 +13,7 @@
     "@nuxtjs/google-fonts": "^3.2.0",
     "@nuxtjs/tailwindcss": "^6.6.7",
     "@types/node": "^20",
-    "nuxt": "^3.4.2"
+    "nuxt": "^3.11.2"
   },
   "dependencies": {
     "@formkit/nuxt": "^0.16.5",
