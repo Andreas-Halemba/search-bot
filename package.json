@@ -16,7 +16,7 @@
     "nuxt": "^3.11.2"
   },
   "dependencies": {
-    "@formkit/nuxt": "^0.16.5",
+    "@formkit/nuxt": "^1.6.2",
     "@formkit/themes": "^0.16.5",
     "chromadb": "^1.8.1",
     "langchain": "^0.1.33"
